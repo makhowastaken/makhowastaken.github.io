@@ -9,7 +9,7 @@ Links to my public accounts and such
 - Twitter -- [https://twitter.com/makhowastaken/](https://twitter.com/makhowastaken/)
 - Github -- [https://github.com/makhowastaken/](https://github.com/makhowastaken/)
 
-For business inquires and such, please use the email linked on the "about" tab of my youtube account. 
+For business inquiries and such, please use the email linked on the "about" tab of my youtube account. 
 
 ### Other Neat Stuff
 
