@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## makho
 
-You can use the [editor on GitHub](https://github.com/makhowastaken/makhowastaken.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Socials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Links to my public accounts and such
 
-### Markdown
+Youtube -- https://www.youtube.com/c/makhobutnotthevillageingeorgia/
+Instagram -- https://www.instagram.com/makhowastaken/
+Twitter -- https://twitter.com/makhowastaken/
+Github -- https://github.com/makhowastaken/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For business inquires and such, please use the email linked on the "about" tab of my youtube account. 
 
-```markdown
-Syntax highlighted code block
+### Other Neat Stuff
 
-# Header 1
-## Header 2
-### Header 3
+Game Boy Wiki -- https://gameboy.github.io/
+Need personalized help? Try joining one of the many discord servers linked in the wiki. 
+I do not respond to emails or DMs with troubleshooting requests. 
 
-- Bulleted
-- List
+My test ROM packs for GB(A):
+240p Test Suite: https://github.com/pinobatch/240p-test-mini
+mattcurrie's color test and scrolling bar test:  https://mattcurrie.com/gb-lcd-tests.zip
+and "AGS Aging" for GBA button test and LCD calibration
 
-1. Numbered
-2. List
+Continuously updated backlight power usage and brightness spreadsheet -- https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi
 
-**Bold** and _Italic_ and `Code` text
+### Tools and Parts
 
-[Link](url) and ![Image](src)
-```
+I have an affiliate link with [Retro Game Repair Shop](https://retrogamerepairshop.com/?ref=1in532q43k) and regularly use this store for parts and tools that I show in my videos. I also have a discount code, "makho", and using it at checkout will get you 10% off your order at RGRS. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Tools I regularly use and recommend (these are affiliate links)
+Fine point tweezers - Engineer PTN-03 -- https://retrogamerepairshop.com/products/ptn-01-03-titanium-tweezers-series?ref=1in532q43k
+Mini power supply - Miniware MDP-XP: https://retrogamerepairshop.com/products/mdp-xp-mini-digital-programmable-power-supply-set-with-30v-5a-90w-2-4g-wireless-connection-2-8-inch-tft-screen?ref=1in532q43k
+Solder sucker - Engineer SS-02 -- https://retrogamerepairshop.com/collections/soldering/products/engineer-ss-02-solder-sucker?ref=1in532q43k
+MiniWare TS80P Soldering Iron -- https://retrogamerepairshop.com/collections/soldering/products/miniware-ts80p-more-set-kit-smart-portable-digital-soldering-iron-type-c-plug?ref=1in532q43k
+Tips for TS80P (J02 and K4) -- https://retrogamerepairshop.com/collections/soldering/products/ts80-ts80p-soldering-iron-tips?ref=1in532q43k
+MiniWare MHP30M Mini Hot Plate -- https://retrogamerepairshop.com/products/miniware-mhp30m-mini-hot-plate-soldering-preheating-station-preheater-multi-intelligent-modes-with-built-in-oled-display-60w-30x30mm-power-supply?ref=1in532q43k
+Amtech Soldering Flux -- https://retrogamerepairshop.com/collections/soldering/products/no-clean-tacky-solder-flux-syringe-kit-nc-559-v2-tf-10cc?ref=1in532q43k
+Through Hole solder practice kit -- https://retrogamerepairshop.com/collections/soldering/products/rotating-windmill-red-led-flashing-light-diy-kit-with-pcb-adjustable-speed-for-soldering-kit-practice-learning-electronics?ref=1in532q43k
+Surface mount solder practice kit -- https://retrogamerepairshop.com/collections/soldering/products/solder-practice-skill-kit-training-board-smd-led?ref=1in532q43k
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makhowastaken/makhowastaken.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you'd like to support me directly, I've created a ko-fi -- https://ko-fi.com/makho
