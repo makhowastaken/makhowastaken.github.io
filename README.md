@@ -1,5 +1,3 @@
-## makho
-
 ### Socials
 
 Links to my public accounts and such
