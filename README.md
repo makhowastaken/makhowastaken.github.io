@@ -22,7 +22,7 @@ My test ROM packs for GB(A):
 - [mattcurrie's color test and scrolling bar test](https://mattcurrie.com/gb-lcd-tests.zip)
 - and "AGS Aging" for GBA button test and LCD calibration (google)
 
-Continuously updated backlight power usage and brightness spreadsheet -- https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi
+Continuously updated backlight power usage and brightness spreadsheet [Excel Spreadsheet hosted on Google Drive](https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi)
 
 ### Tools and Parts
 
