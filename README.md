@@ -18,7 +18,7 @@ I do not respond to emails or DMs with troubleshooting requests.
 My test ROM packs for GB(A):  
 - [240p Test Suite](https://github.com/pinobatch/240p-test-mini)
 - [mattcurrie's color test and scrolling bar test](https://mattcurrie.com/gb-lcd-tests.zip)
-- and "AGS Aging" for GBA button test and LCD calibration (google)
+- and "AGS Aging" for GBA button test and LCD calibration ([google](https://lmgtfy.app/?q=ags+aging+rom+tcrf))
 
 Continuously updated backlight power usage and brightness spreadsheet [Excel Spreadsheet hosted on Google Drive](https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi)
 
@@ -39,5 +39,7 @@ Tools I regularly use and recommend (these are affiliate links):
 - [Surface mount solder practice kit](https://retrogamerepairshop.com/collections/soldering/products/solder-practice-skill-kit-training-board-smd-led?ref=1in532q43k)
 
 If you'd like to support me directly, I've created a ko-fi -- [https://ko-fi.com/makho](https://ko-fi.com/makho)
+
+[http://whothefuckismakho.com/](http://whothefuckismakho.com/)
 
 [![Who is makho?](https://img.youtube.com/vi/VHckZOtmsio/0.jpg)](https://www.youtube.com/watch?v=VHckZOtmsio)
