@@ -11,7 +11,7 @@ For business inquiries and such, please use the email linked on the "about" tab 
 
 ### Other Neat Stuff
 
-Game Boy Wiki -- [https://gameboy.github.io/](https://gameboy.github.io/)  
+Game Boy Wiki -- [https://gameboy.github.io/](https://gameboy.github.io/) -- Tons of helpful repair and mod info, including a [writeup on (nearly) all backlight kits.](https://gameboy.github.io/wiki/backlightmods) 
 Need personalized help? Try joining one of the many discord servers linked in the wiki.  
 I do not respond to emails or DMs with troubleshooting requests. 
 
@@ -37,6 +37,16 @@ Tools I regularly use and recommend (these are affiliate links):
 - [Amtech Soldering Flux](https://retrogamerepairshop.com/collections/soldering/products/no-clean-tacky-solder-flux-syringe-kit-nc-559-v2-tf-10cc?ref=1in532q43k)
 - [Through Hole solder practice kit](https://retrogamerepairshop.com/collections/soldering/products/rotating-windmill-red-led-flashing-light-diy-kit-with-pcb-adjustable-speed-for-soldering-kit-practice-learning-electronics?ref=1in532q43k)
 - [Surface mount solder practice kit](https://retrogamerepairshop.com/collections/soldering/products/solder-practice-skill-kit-training-board-smd-led?ref=1in532q43k)
+
+More tools I also use (not affiliate links):
+
+- [Baseus USB C Charge Cable with power readout](https://www.aliexpress.com/item/3256802765608582.html)
+- [PCBite PCB holders and magnetic base plate from sensepeek](https://sensepeek.com/pcbite-kit-large-base-plate)
+- [X-Tronic 3020-XTS Soldering Station](https://xtronicusa.com/X-Tronic-Model-3020-XTS-LED-Display-Soldering-Station-p74220205)
+- [Bosch Hot Glue Pen](https://www.ebay.com/itm/231374482180)
+- [Adafruit Clear Insulated Silicone Mat](https://www.arrow.com/en/products/3536/adafruit-industries)
+- [USB C + PD/QC Power Meter](https://www.amazon.com/gp/product/B07D316FHM/)
+- [USB A + QC Power Meter](https://www.amazon.com/gp/product/B07FMQZVW2/)
 
 If you'd like to support me directly, I've created a ko-fi -- [https://ko-fi.com/makho](https://ko-fi.com/makho)
 
