@@ -11,7 +11,10 @@ For business inquiries and such, please use the email linked on the "about" tab 
 
 ### Other Neat Stuff
 
-Game Boy Wiki -- [https://gameboy.github.io/](https://gameboy.github.io/) -- Tons of helpful repair and mod info, including a [writeup on (nearly) all backlight kits.](https://gameboy.github.io/wiki/backlightmods) 
+Game Boy Wiki -- [https://gameboy.github.io/](https://gameboy.github.io/) 
+
+- Tons of helpful repair and mod info, including a [writeup on (nearly) all backlight kits.](https://gameboy.github.io/wiki/backlightmods) 
+
 Need personalized help? Try joining one of the many discord servers linked in the wiki.  
 I do not respond to emails or DMs with troubleshooting requests. 
 
