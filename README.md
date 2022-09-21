@@ -18,9 +18,10 @@ Game Boy Wiki -- [https://gameboy.github.io/](https://gameboy.github.io/)
 Need personalized help? Try joining one of the many discord servers linked in the wiki.  
 I do not respond to emails or DMs with troubleshooting requests. 
 
-My test ROM packs for GB(A):  
+Test ROM packs for GB(A): 
+- [mattcurrie's color test and scrolling bar test](https://mattcurrie.com/gb-lcd-tests.zip) 
 - [240p Test Suite](https://github.com/pinobatch/240p-test-mini)
-- [mattcurrie's color test and scrolling bar test](https://mattcurrie.com/gb-lcd-tests.zip)
+- [Natalie the Nerd screen alignment and button test ROMs](https://www.nataliethenerd.com/post/free-dl-gb-gbc-gba-screen-installation-guide)
 - and "AGS Aging" for GBA button test and LCD calibration ([google](https://lmgtfy.app/?q=ags+aging+rom+tcrf))
 
 Continuously updated backlight power usage and brightness spreadsheet [Excel Spreadsheet hosted on Google Drive](https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi)
