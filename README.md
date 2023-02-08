@@ -58,3 +58,5 @@ If you'd like to support me directly, I've created a ko-fi -- [https://ko-fi.com
 [http://whothefuckismakho.com/](http://whothefuckismakho.com/)
 
 [![Who is makho?](https://img.youtube.com/vi/VHckZOtmsio/0.jpg)](https://www.youtube.com/watch?v=VHckZOtmsio)
+
+[blog?](blag)
