@@ -4,7 +4,7 @@ Links to my public accounts and such
 
 - Youtube -- [https://www.youtube.com/c/makhobutnotthevillageingeorgia/](https://www.youtube.com/c/makhobutnotthevillageingeorgia/)
 - Instagram -- [https://www.instagram.com/makhowastaken/](https://www.instagram.com/makhowastaken/)
-- Twitter -- [https://twitter.com/makhowastaken/](https://twitter.com/makhowastaken/)
+- X, Formerly Twitter -- [https://twitter.com/makhowastaken/](https://twitter.com/makhowastaken/)
 - Github -- [https://github.com/makhowastaken/](https://github.com/makhowastaken/)
 
 For business inquiries and such, please use the email linked on the "about" tab of my youtube account. 
@@ -24,6 +24,7 @@ Test ROM packs for GB(A):
 - [240p Test Suite](https://github.com/pinobatch/240p-test-mini)
 - [Natalie the Nerd screen alignment and button test ROMs](https://www.nataliethenerd.com/post/free-dl-gb-gbc-gba-screen-installation-guide)
 - and "AGS Aging" for GBA button test and LCD calibration ([google](https://lmgtfy.app/?q=ags+aging+rom+tcrf))
+    - Aging startup patches for non-eeprom carts: [https://djedditt.net/agsaging/](https://djedditt.net/agsaging/)
 
 Continuously updated backlight power usage and brightness spreadsheet [Excel Spreadsheet hosted on Google Drive](https://drive.google.com/open?id=1wUsJ2jZkEBOzhegrN-tVGW7wCkuIf6Bi)
 
