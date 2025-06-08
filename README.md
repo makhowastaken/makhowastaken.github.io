@@ -3,7 +3,7 @@
 Links to my public accounts and such
 
 - Youtube -- [https://www.youtube.com/c/makhobutnotthevillageingeorgia/](https://www.youtube.com/c/makhobutnotthevillageingeorgia/)
-- Instagram -- [https://www.instagram.com/makhowastaken/](https://www.instagram.com/makhowastaken/)
+- --Instagram -- [https://www.instagram.com/makhowastaken/](https://www.instagram.com/makhowastaken/)-- nvm, I deleted that shit
 - X, Formerly Twitter -- [https://twitter.com/makhowastaken/](https://twitter.com/makhowastaken/)
 - Github -- [https://github.com/makhowastaken/](https://github.com/makhowastaken/)
 
